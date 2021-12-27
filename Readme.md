@@ -1,0 +1,1 @@
+Uma pokedex construída em python usando pypokedex API e tkinter para tela// A pokedex built in python using pypokedex API and tkinter for screen
